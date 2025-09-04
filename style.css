@@ -1,9 +1,7 @@
 .border {
-  border-style: solid;
-  border-color: #ff0000;
-  border-radius: 30px;
+  border: 3px black solid;
+  border-radius: 25px;
   padding: 60px;
-  width: 1920px;
-  height: 1080px;
+  height: 40vh;
   margin: 0 auto;
 }
